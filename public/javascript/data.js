@@ -10,7 +10,7 @@ let agenda = [
     },
     {
         id: 2,
-        title: 'Hasil Ujian Akhir',
+        title: 'Pendaftaran Santri Baru 2025/2026',
         tanggal: '22/02/2025',
         author: 'Admin Pondok IT',
         photo: '02.png'
